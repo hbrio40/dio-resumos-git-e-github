@@ -14,4 +14,4 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso de versionament
 
 | Gravando Alterações no Repositórios local |
 
-| Alterando informações no Repositorio remoto |
+| Alterando informações no Repositório remoto |
